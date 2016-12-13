@@ -1,0 +1,92 @@
+<resources>
+    <!--titles, headings and buttons -->
+    <string name="app_name">Let\'s Meet</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title">Let\'s\nMeet</string>
+    <string name="addMeetUp">Add a Meet Up</string>
+    <string name="findMeetUp">Find a Meet Up</string>
+    <string name="manageMeetUp">Manage Meet Ups</string>
+    <string name="join">Join</string>
+    <string name="cancel">Cancel</string>
+    <string name="nameLable">Name</string>
+    <string name="emailLable">Email</string>
+    <string name="titleLable">Title</string>
+    <string name="locationLable">Location</string>
+    <string name="dateLable">Date</string>
+    <string name="timeLable">Time</string>
+    <string name="categoryLable">Category</string>
+    <string name="minLevelLable">Minimum Level</string>
+    <string name="maxLevelLable">Maximum Level</string>
+    <string name="attendeesLable">No. of Attendees</string>
+    <string name="noteLable">Details</string>
+    <string name="dateButtonLabel">Set Date</string>
+    <string name="timeButtonLable">Set Time</string>
+    <string name="addMeetingButtonLabel">Add Meeting</string>
+    <string name="enter">Enter</string>
+    <string name="Directions">Directions</string>
+
+
+    <!--numbers 1 - 20 -->
+    <string-array name="onetotwenty_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+
+    <!--numbers 2 - 20 -->
+    <string-array name="twototwenty_array">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+
+    <!--Categories -->
+    <string-array name="category_array">
+        <item>Fitness</item>
+        <item>Education</item>
+        <item>Food</item>
+        <item>Sports</item>
+        <item>Music</item>
+        <item>Languages</item>
+        <item>Art</item>
+        <item>Books</item>
+        <item>Social</item>
+        <item>Business</item>
+        <item>Games</item>
+    </string-array>
+
+
+</resources>
